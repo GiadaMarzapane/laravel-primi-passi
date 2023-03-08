@@ -71,6 +71,17 @@
                 <p>&#128151; Metti mi piace ai tuoi prodotti preferiti</p>
             </div>
         </section>
+        <section class="d-flex justify-content-evenly align-items-center mt-4 py-4">
+            <div>
+                <img style="height: 300px; width: 220px;" src="//cdn.shopify.com/s/files/1/0075/3880/2743/products/00001_2_c1c7bc1f-5a37-4c24-ac3e-589a0f162e84_800x1200.jpg?v=1677505549" alt="">
+            </div>
+            <div>
+                <img style="height: 300px; width: 220px;" src="//cdn.shopify.com/s/files/1/0075/3880/2743/products/00002_3_b59708d2-0a26-4666-88e2-e0821a07cb88_800x1200.jpg?v=1658824141" alt="">
+            </div>
+            <div>
+                <img style="height: 300px; width: 220px;" src="//cdn.shopify.com/s/files/1/0075/3880/2743/products/00002_1_2541f73a-31bf-4de6-9cd7-4c978ea6b9a8_800x1200.jpg?v=1664802875" alt="">
+            </div>
+        </section>
     </main>
 </body>
 
