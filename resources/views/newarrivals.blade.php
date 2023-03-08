@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 
-    <title>Laravel Primi Passi - Scarpe</title>
+    <title>Laravel Primi Passi - Nuovi Arrivi</title>
 </head>
 
 <body>
@@ -19,12 +19,12 @@
             <nav>
                 <ul>
                     <li class="list-inline-item me-3">
-                        <a class="text-decoration-none text-dark text-capitalize" href="">
-                            <strong>scarpe</strong>
-                        </a>
+                        <a class="text-decoration-none text-dark text-capitalize" href="scarpe">scarpe</a>
                     </li>
                     <li class="list-inline-item me-3">
-                        <a class="text-decoration-none text-dark text-capitalize" href="nuoviarrivi">nuovi arrivi</a>
+                        <a class="text-decoration-none text-dark text-capitalize" href="">
+                            <strong>nuovi arrivi</strong>
+                        </a>
                     </li>
                     <li class="list-inline-item me-3">
                         <a class="text-decoration-none text-dark text-capitalize" href="">stivaletti</a>
@@ -46,7 +46,7 @@
         </div>
     </header>
     <main class="mt-4">
-        <div class="d-flex justify-content-around align-items-center">
+        <div class="d-flex justify-content-around align-items-center border-bottom">
             <div>
                 <p>
                     <strong class="text-uppercase">Iscriviti alla newsletter</strong> - Subito te un <strong class="text-uppercase">-10%</strong>
@@ -64,22 +64,23 @@
             </div>
         </div>
         <section>
+            <h2 class="text-capitalize text-center pt-4">nuovi arrivi &#9889;</h2>
             <div class="text-center mt-5">
                 <p>
-                    <strong>825</strong> prodotti trovati
+                    <strong>15</strong> nuovi prodotti trovati
                 </p>
                 <p>&#128151; Metti mi piace ai tuoi prodotti preferiti</p>
             </div>
         </section>
         <section class="d-flex justify-content-evenly align-items-center mt-4 py-4">
             <div>
-                <img style="height: 300px; width: 220px;" src="//cdn.shopify.com/s/files/1/0075/3880/2743/products/00001_2_c1c7bc1f-5a37-4c24-ac3e-589a0f162e84_800x1200.jpg?v=1677505549" alt="">
-            </div>
-            <div>
-                <img style="height: 300px; width: 220px;" src="//cdn.shopify.com/s/files/1/0075/3880/2743/products/00002_3_b59708d2-0a26-4666-88e2-e0821a07cb88_800x1200.jpg?v=1658824141" alt="">
-            </div>
-            <div>
                 <img style="height: 300px; width: 220px;" src="//cdn.shopify.com/s/files/1/0075/3880/2743/products/00002_1_2541f73a-31bf-4de6-9cd7-4c978ea6b9a8_800x1200.jpg?v=1664802875" alt="">
+            </div>
+            <div>
+                <img style="height: 300px; width: 220px;" src="//cdn.shopify.com/s/files/1/0075/3880/2743/products/00002_3_11e17f01-3b0b-44a6-8239-276165c2d2d5_800x1200.jpg?v=1673971669" alt="">
+            </div>
+            <div>
+                <img style="height: 300px; width: 220px;" src="//cdn.shopify.com/s/files/1/0075/3880/2743/products/00002_2_97a2f0ee-197e-4852-a9b9-a7e5a8364fd3_800x1200.jpg?v=1673965228" alt="">
             </div>
         </section>
     </main>

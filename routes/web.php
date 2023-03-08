@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/scarpe', function () {
     return view('shoes');
 });
+Route::get('/nuoviarrivi', function () {
+    return view('newarrivals');
+});

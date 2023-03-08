@@ -23,7 +23,7 @@
                         <a class="text-decoration-none text-dark text-capitalize" href="scarpe">scarpe</a>
                     </li>
                     <li class="list-inline-item me-3">
-                        <a class="text-decoration-none text-dark text-capitalize" href="">nuovi arrivi</a>
+                        <a class="text-decoration-none text-dark text-capitalize" href="nuoviarrivi">nuovi arrivi</a>
                     </li>
                     <li class="list-inline-item me-3">
                         <a class="text-decoration-none text-dark text-capitalize" href="">stivaletti</a>
@@ -44,6 +44,9 @@
             </nav>
         </div>
     </header>
+    <main>
+        <img style="height: 700px;" class="d-block w-75 m-auto" src="https://cdn.shopify.com/s/files/1/0075/3880/2743/files/ITA_MOBILE.jpg?v=1677584544" alt="">
+    </main>
 </body>
 
 </html>
